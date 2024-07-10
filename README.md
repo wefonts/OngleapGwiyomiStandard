@@ -8,4 +8,8 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGwiyomiStandard/OngleapGwiyomiStandard.ttf") format("truetype");
     font-display: swap;
 }  
+
+.OngleapGwiyomiStandard {
+    font-family: "OngleapGwiyomiStandard";
+}
 </pre>
